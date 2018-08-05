@@ -13,7 +13,7 @@
     <title>Films</title>
 </head>
 <body>
-    <div><a href="./dictionnaire.php">Dico</a></div>
+    <div><a href="./index.php">Dico</a></div>
     <div class="exo">
     <h1>Afficher le top10 des films</h1>
     <p>
